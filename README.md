@@ -9,14 +9,7 @@ This repository presents the implementation and analysis of AI-driven routing al
 - 🛣️ **Smart Routing**: Supports routing strategies based on travel time, fuel efficiency, and congestion levels.
 - 📊 **Performance Analysis**: Benchmarks performance against traditional routing methods.
 - 🧪 **Simulation Environment**: Tested under various city traffic conditions for scalability and robustness.
-
-## 📁 Repository Structure
-├── src/ # Core AI and routing algorithm implementations
-├── data/ # Simulated IoT-based traffic datasets
-├── notebooks/ # Experimentation and performance evaluation
-├── report/ # Research paper and documentation
-└── README.md # Project overview and setup instructions
-
+  
 ## 🧑‍💻 Technologies Used
 
 - Python 3.x  
